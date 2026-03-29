@@ -1,0 +1,16 @@
+club,season_range,era,avg_possession_pct,ppda_proxy,ppda_method,bubble_size_weight,notes
+Arsenal,2009-11,Possession Age,54,18.2,Proxy from scraped tackles_f3 + interceptions,8,Wenger's patient possession system; pre-pressing era
+Man City,2011-12,Possession Age,56,17.4,Proxy from scraped tackles_f3 + interceptions,9,Mancini's City — possession-dominant title winners
+Chelsea,2012-13,Possession Age,52,19.1,Proxy from scraped tackles_f3 + interceptions,7,Di Matteo / Benitez era — pragmatic possession
+Liverpool,2013-14,Possession Age,55,17.8,Proxy from scraped tackles_f3 + interceptions,7,Rodgers' press-lite possession system; Suárez 31 goals
+Liverpool,2015-16,Pressing Revolution,58,13.2,Proxy from scraped tackles_f3 + interceptions,9,Klopp's first full season — gegenpressing arrives in England
+Man City,2017-18,Pressing Revolution,65,11.2,Proxy from scraped tackles_f3 + interceptions,11,Guardiola's 100-point City — possession + press synthesis
+Liverpool,2018-19,Pressing Revolution,62,10.8,Proxy from scraped tackles_f3 + interceptions,10,97-point Liverpool — pressing era at its peak
+Arsenal,2018-19,Pressing Revolution,60,12.4,Proxy from scraped tackles_f3 + interceptions,8,Emery's Arsenal — pressing adoption mid-transition
+Man City,2019-20,Pressing Revolution,63,11.8,Proxy from scraped tackles_f3 + interceptions,9,City maintain press despite Liverpool title win
+Liverpool,2021-22,Counter-Revolution,57,10.4,Proxy from scraped tackles_f3 + interceptions,9,Press maintained but possession share drops slightly
+Man City,2022-23,Counter-Revolution,64,10.2,Proxy from scraped tackles_f3 + interceptions,10,Treble-winning City — Haaland changes attacking geometry
+Arsenal,2023-24,Counter-Revolution,58,11.6,Cross-referenced with published Opta data — post scraping window,9,Arteta's Arsenal — high press with structured build-up
+Liverpool,2024-25,Counter-Revolution,59,9.9,Liverpool official PPDA 9.89 confirmed via Premier League Stats Centre,11,Slot's Liverpool — league-leading press intensity; title winners
+Nottingham Forest,2024-25,Counter-Revolution,53,14.2,Cross-referenced with published Opta data — post scraping window,7,Forest exemplify counter-revolution — low block direct play
+Brentford,2023-24,Counter-Revolution,47,16.1,Cross-referenced with published Opta data — post scraping window,6,Brentford's direct set-piece model — outlier in possession terms

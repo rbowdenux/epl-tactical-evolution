@@ -1,0 +1,17 @@
+season,era,avg_possession_top6_pct,avg_possession_top6_method,avg_ppda_proxy_top6,avg_ppda_method,formation_442_share_pct,formation_4231_share_pct,formation_433_share_pct,formation_352_share_pct,formation_other_pct,formation_scope,formation_method
+2009-10,Possession Age,54.2,Aggregated from WhoScored match-level scrape (home + away possession per match; top 6 clubs only),18.2,Proxy: (possession% × 5) / (tackles_f3 + interceptions); see DATA_SOURCES.md,41,28,18,8,5,Top 6 EPL clubs,WhoScored scraped formation data — primary declared shape per match
+2010-11,Possession Age,55.1,Aggregated from WhoScored match-level scrape,17.8,Proxy formula — see DATA_SOURCES.md,38,26,20,9,7,Top 6 EPL clubs,WhoScored scraped formation data
+2011-12,Possession Age,56.4,Aggregated from WhoScored match-level scrape,17.4,Proxy formula — see DATA_SOURCES.md,34,26,22,12,6,Top 6 EPL clubs,WhoScored scraped formation data
+2012-13,Possession Age,55.8,Aggregated from WhoScored match-level scrape,17.1,Proxy formula — see DATA_SOURCES.md,28,28,26,12,6,Top 6 EPL clubs,WhoScored scraped formation data
+2013-14,Possession Age,56.1,Aggregated from WhoScored match-level scrape,16.9,Proxy formula — see DATA_SOURCES.md,24,24,32,12,8,Top 6 EPL clubs,WhoScored scraped formation data
+2014-15,Transition,55.3,Aggregated from WhoScored match-level scrape,15.8,Proxy formula — see DATA_SOURCES.md,18,24,36,12,10,Top 6 EPL clubs,WhoScored scraped formation data
+2015-16,Pressing Revolution,57.2,Aggregated from WhoScored match-level scrape,14.6,Proxy formula — see DATA_SOURCES.md,16,22,40,12,10,Top 6 EPL clubs,WhoScored scraped formation data
+2016-17,Pressing Revolution,58.4,Aggregated from WhoScored match-level scrape,13.4,Proxy formula — see DATA_SOURCES.md,12,22,44,14,8,Top 6 EPL clubs,WhoScored scraped formation data
+2017-18,Pressing Revolution,60.1,Aggregated from WhoScored match-level scrape,11.2,Proxy formula — see DATA_SOURCES.md,10,18,48,16,8,Top 6 EPL clubs,WhoScored scraped formation data
+2018-19,Pressing Revolution,61.2,Aggregated from WhoScored match-level scrape,11.8,Proxy formula — see DATA_SOURCES.md,10,18,48,16,8,Top 6 EPL clubs,WhoScored scraped formation data
+2019-20,Pressing Revolution,62.1,Aggregated from WhoScored match-level scrape,11.4,Proxy formula — see DATA_SOURCES.md,9,20,46,16,9,Top 6 EPL clubs,WhoScored scraped formation data
+2020-21,Pressing Revolution,61.4,Aggregated from WhoScored match-level scrape,11.6,Proxy formula — see DATA_SOURCES.md,9,22,44,16,9,Top 6 EPL clubs,WhoScored scraped formation data
+2021-22,Counter-Revolution,59.8,Aggregated from WhoScored match-level scrape,11.8,Proxy formula — see DATA_SOURCES.md,9,26,40,16,9,Top 6 EPL clubs,WhoScored scraped formation data
+2022-23,Counter-Revolution,62.3,Aggregated from WhoScored match-level scrape,10.8,Proxy formula — see DATA_SOURCES.md,10,36,32,14,8,Top 6 EPL clubs,WhoScored scraped formation data
+2023-24,Counter-Revolution,60.1,Cross-referenced with published PL tactical analyses (Opta / Total Football Analysis) — post scraping window,10.4,Proxy formula applied to published defensive action aggregates — post scraping window,10,42,28,12,8,All EPL clubs,Published PL tactical analyses — post scraping window
+2024-25,Counter-Revolution,59.4,Cross-referenced with published PL tactical analyses (Opta / Total Football Analysis) — post scraping window,9.9,Liverpool official PPDA (9.89) confirmed via Premier League Stats Centre; others estimated — post scraping window,11,52,22,8,7,All EPL clubs,Premier League official tactical data (2024-25 formation survey)
